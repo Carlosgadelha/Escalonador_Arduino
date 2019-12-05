@@ -1,4 +1,4 @@
-# Bibioteca de escalonamento para arduino
+# Biblioteca de escalonamento para arduino
 
 Disciplina: Sistemas Operacionas - UFC 
 Professor: Danilo Alves
@@ -12,7 +12,7 @@ O arduino não possui suporte a multiprogramação, as Threads são implementada
 * [ ] Escalonamento por prioridades
 * [ ] Aleatorio
 * [ ] Round Robbin
-* [ ] Shortest Job First
+
 
 
 Biblioteca Thread.h esta disponivel en : https://github.com/ivanseidel/ArduinoThread
