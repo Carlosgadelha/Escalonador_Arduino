@@ -1,0 +1,15 @@
+Este projeto esta sendo desenvolvido para a disciplina de Sistema Operacionais....
+
+
+O arduino possui limitaçoes, ao imprementar um escalonador para esta plataforma o programador precisa esta ciente das mesmas. 
+Ou seja, exisstem algumas diferenças ao se programar em relação a um computador comum...
+
+Para comprender o funcionamento da Biblioteca Escalonador, o ideal seria utilizar o exemplo "Biblioteca.ino". O codigo do arduino esta comentado..
+
+Biblioteca Thread esta disponivel em : https://github.com/ivanseidel/ArduinoThread
+
+Escalonador.h - Escalona uma lista de threads em métodos diferentes	
+Criado com base no Código de Ivan Seidel Gomes, March, 2013.
+
+
+
